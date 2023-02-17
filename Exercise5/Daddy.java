@@ -1,4 +1,4 @@
 public class Daddy {
     
-    protected String surname = "Pituc";
+    protected String surname = "pituc";
 }
