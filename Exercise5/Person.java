@@ -1,6 +1,6 @@
 public class Person {
 
-   private String name = "Jeanne";
+   private String name = "jeanne";
 
    //get () method
    public String getName() {
